@@ -83,7 +83,7 @@ class MovieFinder extends React.Component {
               <input
                 type="text"
                 className="form-control mr-sm-2"
-                placeholder="frozen"
+                placeholder="search"
                 value={searchTerm}
                 onChange={this.handleChange}
               />
